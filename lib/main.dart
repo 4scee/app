@@ -13,12 +13,12 @@ class MyApp extends StatelessWidget {
       title: 'Welcome to Flutter',
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Welcome to Flutter'), // Título en la barra superior
+          title: const Text('Welcome to Flutter'),
         ),
         body: const Center(
           child: Text(
             'Hello World', // Texto en el centro de la pantalla
-            style: TextStyle(fontSize: 24), // Estilo del texto
+            style: TextStyle(fontSize: 24), //
           ),
         ),
       ),
